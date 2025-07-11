@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Engineer | .NET Core Developer | Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/vishal-verma7007" target="_blank">
+  <a href="https://www.linkedin.com/in/vishal-verma-a3110316b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:vishal39715@gmail.com">
