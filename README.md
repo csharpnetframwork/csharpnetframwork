@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Vishal Verma</h1>
-<h3 align="center">🚀 Software Engineer | Cloud & DevOps Enthusiast | AWS | .NET Core</h3>
+<h3 align="center">🚀 Software Engineer | .NET Core Developer | Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishal-verma-a3110316b/" target="_blank">
@@ -15,32 +15,36 @@
 
 ## 👨‍💻 About Me
 
-✨ I’m a passionate **Software Engineer** with **3+ years of experience** in  
-🌐 **Cloud Computing (AWS)**, 🛠 **DevOps**, and 💻 **.NET Core Development**.
+I’m **Vishal Verma**, a passionate **Software Engineer** with **3+ years of experience** in:
+- 🔧 **.NET Core development** using **Entity Framework Core & MVC**
+- ☁️ Cloud basics with **AWS & Azure**
+- ⚙️ DevOps practices: **Git, Jenkins, Docker, Kubernetes**
+- 🧪 **Manual Testing** & Quality Assurance using **JIRA**
 
-I love building **scalable, secure, and efficient** cloud-based solutions and automating workflows that save time and increase reliability.  
-Currently pursuing **MCA** and continuously exploring new technologies like **Azure** and **Kubernetes**.
+I love building **secure, scalable, and maintainable** web applications while continuously expanding my knowledge of **cloud-native development and automation**.
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack
 
-| 🖥️ Cloud & DevOps | ☁️ AWS (EC2, VPC, EKS, RDS, S3, Route 53) • Docker • Kubernetes • Jenkins • CI/CD |
-|-------------------|-------------------------------------------------------------------------------------|
-| 💻 Programming     | .NET Core • C# • Java (Basic) • JavaScript (Basic)                                  |
-| 🎨 Frontend        | HTML • CSS                                                                           |
-| 🛢️ Databases       | SQL • SQL Server                                                                     |
-| 🧪 QA & Testing    | Manual Testing • JIRA                                                                |
-| 🔗 Others          | MSD365 CRM • SSIS • Entity Framework Core • MVC                                      |
+| Category           | Tools & Technologies                                                                 |
+|--------------------|--------------------------------------------------------------------------------------|
+| 🖥️ Primary Tech      | .NET Core • Entity Framework Core • MVC                                             |
+| ☁️ Cloud            | AWS (EC2, S3, RDS, VPC, EKS) • Azure *(Basic understanding)*                        |
+| 💾 Databases        | SQL • SQL Server                                                                    |
+| 🛠 DevOps & CI/CD    | Jenkins • Docker • Kubernetes • Git                                                 |
+| 🎨 Frontend         | HTML • CSS                                                                           |
+| 🧪 Testing & QA     | Manual Testing • JIRA • Test Case Design                                             |
+| 🔗 Others           | Microsoft Dynamics 365 CRM • SSIS                                                    |
 
 ---
 
 ## 📜 Certifications
 
-✅ **AWS Certified Cloud Practitioner**  
-✅ **ASP.NET Core MVC**  
-✅ **Azure Infrastructure Solutions**  
-🔄 **Cloud Architect Certification (In Progress)**  
+- ✅ **AWS Certified Cloud Practitioner**
+- ✅ **ASP.NET Core MVC**
+- ✅ **Azure Infrastructure Solutions** *(In Progress)*
+- 🔄 **Cloud Architect Certification (In Progress)**
 
 ---
 
@@ -51,11 +55,11 @@ Currently pursuing **MCA** and continuously exploring new technologies like **Az
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Learning
 
-- 🚀 **Advanced AWS & Azure Cloud**
-- 🔄 **DevOps Automation & Microservices**
-- ⚡ **Kubernetes & CI/CD Best Practices**
+- ☁️ **Advanced Cloud & Azure Infrastructure**
+- 🔄 **CI/CD Automation & Kubernetes**
+- 🚀 **Microservices & Cloud-Native Architecture**
 
 ---
 
@@ -72,10 +76,10 @@ Currently pursuing **MCA** and continuously exploring new technologies like **Az
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let’s Connect!
 
-- 💌 **Email:** [vishal39715@gmail.com](mailto:vishal39715@gmail.com)  
-- 💼 **LinkedIn:** [Vishal Verma](https://www.linkedin.com/in/vishal-verma-a3110316b/)  
+- 📧 **Email:** [vishal39715@gmail.com](mailto:vishal39715@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/vishal-verma-a3110316b](https://www.linkedin.com/in/vishal-verma-a3110316b/)
 
 ---
 
@@ -83,6 +87,4 @@ Currently pursuing **MCA** and continuously exploring new technologies like **Az
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
-<p align="center">
-  <b>“Code. Automate. Deploy. Repeat.”</b>
-</p>
+<p align="center"><b>“Code. Automate. Deploy. Repeat.”</b></p>
